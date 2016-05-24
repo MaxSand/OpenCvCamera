@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpencvCamera</string>
+    <!--  Main Activity  -->
+    <string name="titulo">- Open CV -</string>
+    <string name="materia">Programacion para Dispositivos Moviles</string>
+    <string name="descripcion">Configuracion para Open CV</string>
+    <string name="camera">Camara:</string>
+    <string name="resolucion">Resolucion:</string>
+    <string name="efectos">Efectos:</string>
+</resources>
